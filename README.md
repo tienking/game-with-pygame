@@ -1,6 +1,6 @@
-Hello there,
+[ GAME WITH PYGAME ]
 
-I am a Python developer from Vietnam.
+This is How I learnt Python: "Making Games with Pygame"
 I have wrote these games to learn Python algorithm.
 
 Enjoy.
